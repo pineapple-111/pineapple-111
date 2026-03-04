@@ -1,5 +1,5 @@
 ## Hi My name is 楊育豪 👋
--🔭 I’m student studing at **cjcu**
+- 🔭 I’m student studing at **cjcu**
 
 - 🌱 I’m currently learning **English**
 
